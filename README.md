@@ -1,6 +1,6 @@
-# siktamland-mods
+# siktam-mods
 
-식탐랜드(SiktamLand) 런처가 자동으로 동기화하는 클라이언트 모드 저장소. (Minecraft 26.2 / Fabric)
+식탐서버(Siktam) 런처가 자동으로 동기화하는 클라이언트 모드 저장소. (Minecraft 26.2 / Fabric)
 
 - 이 repo의 `mods/` 폴더에 있는 jar가 클라이언트의 최종 모드 세트입니다.
 - 모드를 바꾸려면 `mods/` 폴더에서 jar를 추가/교체/삭제한 뒤 커밋·푸시하면 됩니다.
